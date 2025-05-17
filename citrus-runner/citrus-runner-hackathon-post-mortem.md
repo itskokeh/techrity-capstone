@@ -7,7 +7,7 @@ tools like React and Vite.”
 >*"A technical deep dive into the stack, tradeoffs, and painful lessons
 from a $100K Web3 hackathon"*
 
-![Build Process](./assets/citrus-runner-build.gif)
+![Build Process](assets/citrus-runner-build.gif)
 _Figure 1: The dev progress from first draft to finished product_
 
 ### TL;DR
