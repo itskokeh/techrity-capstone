@@ -8,3 +8,13 @@ iframe {
   height: 100vh;
   border: white;
 }
+
+@media (max-width: 768px) {
+  iframe {
+    width: 100vw;
+  }
+
+  .c38, .doc-content {
+    padding: 0 !important;
+  }
+}
